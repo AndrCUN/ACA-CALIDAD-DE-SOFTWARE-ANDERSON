@@ -6,7 +6,7 @@ const CHALLENGE_MODEL_NAME = 'gemini-2.5-flash';
 
 const getAiClient = () => {
     // API key is automatically sourced from `process.env.API_KEY`
-    return new GoogleGenAI({ apiKey: process.env.API_KEY });
+    return new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 }
 
 export const generateChallenge = async (topic: string): Promise<ChallengeQuestion[]> => {
