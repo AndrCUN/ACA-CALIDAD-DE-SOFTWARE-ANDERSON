@@ -9,7 +9,7 @@ export const MODULE_STRUCTURE: Section[] = [
       <div class="space-y-6">
 
         <div class="relative p-8 bg-white rounded-xl shadow-md text-center overflow-hidden animate-fade-in-up">
-          <img src="imgs/Gemini_Generated_Image_7e70sr7e70sr7e70 (1).png" alt="Banner de bienvenida" class="absolute top-0 left-0 w-full h-full object-cover opacity-20"/>
+          <img src="https://storage.googleapis.com/efor-static/CNT%20firma/Gemini_Generated_Image_7e70sr7e70sr7e70%20(1).png" alt="Banner de bienvenida" class="absolute top-0 left-0 w-full h-full object-cover opacity-20"/>
           <div class="relative z-10">
             <h2 class="text-3xl font-extrabold text-indigo-700 mb-4">¡Bienvenido al Centro de Aprendizaje de Calidad de Software!</h2>
             <p class="text-lg text-slate-600 max-w-3xl mx-auto">
@@ -66,7 +66,7 @@ export const MODULE_STRUCTURE: Section[] = [
     topic: 'Estándares de Programación y Calidad del Código',
     content: `
       <div class="space-y-10">
-        <img src="imgs/1.png" alt="Imagen representando estándares y calidad de código" class="w-full h-64 object-cover rounded-xl shadow-md mb-6 animate-fade-in-up" />
+        <img src="https://storage.googleapis.com/efor-static/CNT%20firma/1.png" alt="Imagen representando estándares y calidad de código" class="w-full h-64 object-cover rounded-xl shadow-md mb-6 animate-fade-in-up" />
         <p class="text-lg animate-fade-in-up delay-200">Los estándares de programación son reglas y convenciones que definen buenas prácticas en la escritura de código fuente, con el objetivo de lograr claridad, mantenibilidad, legibilidad y seguridad. La calidad del código se refiere a la medida en que el código es comprensible, testeable, eficiente y libre de defectos.</p>
         
         <div class="p-6 bg-white rounded-xl shadow-md animate-fade-in-up delay-200">
@@ -167,7 +167,7 @@ export const MODULE_STRUCTURE: Section[] = [
     topic: 'Métricas y Evaluación de Calidad del Software',
     content: `
       <div class="space-y-6">
-        <img src="imgs/2.png" alt="Imagen representando métricas y evaluación de software" class="w-full h-64 object-cover rounded-xl shadow-md mb-6 animate-fade-in-up" />
+        <img src="https://storage.googleapis.com/efor-static/CNT%20firma/2.png" alt="Imagen representando métricas y evaluación de software" class="w-full h-64 object-cover rounded-xl shadow-md mb-6 animate-fade-in-up" />
         <p class="text-lg animate-fade-in-up delay-100">Las métricas de calidad de software son medidas cuantitativas que permiten evaluar distintos aspectos del producto, proceso y proyecto. Proporcionan datos objetivos para tomar decisiones, identificar defectos y mejorar procesos.</p>
 
         <div class="p-6 bg-white rounded-xl shadow-md animate-fade-in-up delay-200">
@@ -218,7 +218,7 @@ export const MODULE_STRUCTURE: Section[] = [
     topic: 'Pruebas de Software y Técnicas de Testing',
     content: `
       <div class="space-y-6">
-        <img src="imgs/3.png" alt="Imagen representando pruebas de software" class="w-full h-64 object-cover rounded-xl shadow-md mb-6 animate-fade-in-up" />
+        <img src="https://storage.googleapis.com/efor-static/CNT%20firma/3.png" alt="Imagen representando pruebas de software" class="w-full h-64 object-cover rounded-xl shadow-md mb-6 animate-fade-in-up" />
         <p class="text-lg animate-fade-in-up delay-100">Las pruebas de software son un conjunto de actividades diseñadas para identificar errores, verificar el cumplimiento de requisitos y asegurar la calidad de una aplicación antes de su liberación.</p>
         
         <div class="grid md:grid-cols-2 gap-6">
